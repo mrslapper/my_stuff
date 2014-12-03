@@ -1,4 +1,4 @@
 my_stuff
 ========
 
-Here exists projects, whitch I participated as the sole developer.
+Here exists projects, which I participated as the sole developer.
